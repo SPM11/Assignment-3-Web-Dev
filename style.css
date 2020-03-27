@@ -1,0 +1,22 @@
+/*
+@TODO : Add styles here
+
+  Detals;
+  1. Add Merienda Google font
+
+*/
+body {
+	@import url('https://fonts.googleapis.com/css?family=Merienda&display=swap');
+}
+
+#one {
+	border-color: blue;
+}
+
+#two {
+	border-color: green;
+}
+
+#three {
+	border-color: gray;
+}
